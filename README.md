@@ -1,5 +1,5 @@
 
-Handles Attendance List's export files
+Handles Attendance Tracker's export files
 
 https://play.google.com/store/apps/details?id=peterman.apps.attendance
 
